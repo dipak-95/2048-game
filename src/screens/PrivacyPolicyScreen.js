@@ -34,8 +34,8 @@ const PrivacyPolicyScreen = ({ navigation }) => {
                     theme={theme}
                 />
                 <Section
-                    title="Offline Capability"
-                    text="The game functions entirely offline. No internet connection is required for gameplay."
+                    title="Network Requirement"
+                    text="An active internet connection is required to play this game. The app checks for network connectivity upon launch and during gameplay."
                     theme={theme}
                 />
                 <Section
